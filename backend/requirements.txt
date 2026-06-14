@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+asyncpg
+python-jose[cryptography]
+bcrypt
+cloudinary
+google-genai
+moss
+pymupdf
+python-multipart
+python-dotenv
+httpx
