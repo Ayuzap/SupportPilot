@@ -180,7 +180,7 @@ To test the complete AI-powered troubleshooting flow:
 | Company Dashboard | AI Chat Interface |
 |:---:|:---:|
 
-| ![Company Dashboard](<img width="1893" height="987" alt="image" src="https://github.com/user-attachments/assets/3c1b016e-3026-4238-8734-2cb7522919f8" />)
+| ![Company Dashboard] |(<img width="1893" height="987" alt="image" src="https://github.com/user-attachments/assets/3c1b016e-3026-4238-8734-2cb7522919f8" />)
 
 ) | ![AI Troubleshooting Chat] |(<img width="1553" height="956" alt="image" src="https://github.com/user-attachments/assets/2cf7a83f-3be4-4dd2-b204-2d19aad43aaa" />)
 
