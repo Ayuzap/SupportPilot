@@ -181,4 +181,4 @@ To test the complete AI-powered troubleshooting flow:
 
 ## 🎥 Demo Video
 
-🎥 **[Watch the SupportPilot Video Demo](https://drive.google.com/file/d/1pGUz7byLFlnEA6Ocg9TuSgJsPYRWk_mw/view?usp=drive_link)**
+🎥 **[Watch the SupportPilot Video Demo](https://drive.google.com/file/d/1LAfyA9JMfkkj0SxOopmAOFTcCf1BBSUl/view?usp=drive_link)**
