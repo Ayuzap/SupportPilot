@@ -173,14 +173,9 @@ To test the complete AI-powered troubleshooting flow:
 
 <img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/9392463f-a46b-491b-bc97-0f852400ea44" />
 
-
-
-
-
 | Company Dashboard | AI Chat Interface |
 |:---:|:---:|
-
-| ![Company Dashboard] |(<img width="1893" height="987" alt="image" src="https://github.com/user-attachments/assets/3c1b016e-3026-4238-8734-2cb7522919f8" />)
+| <img width="1893" height="987" alt="image" src="https://github.com/user-attachments/assets/3c1b016e-3026-4238-8734-2cb7522919f8" /> | <img width="1553" height="956" alt="image" src="https://github.com/user-attachments/assets/2cf7a83f-3be4-4dd2-b204-2d19aad43aaa" /> |
 
 ) | ![AI Troubleshooting Chat] |(<img width="1553" height="956" alt="image" src="https://github.com/user-attachments/assets/2cf7a83f-3be4-4dd2-b204-2d19aad43aaa" />)
 
@@ -189,4 +184,4 @@ To test the complete AI-powered troubleshooting flow:
 
 ## 🎥 Demo Video
 
-🎥 **[Watch the SupportPilot Video Demo]https://drive.google.com/file/d/1pGUz7byLFlnEA6Ocg9TuSgJsPYRWk_mw/view?usp=drive_link)**
+🎥 **[Watch the SupportPilot Video Demo](https://drive.google.com/file/d/1pGUz7byLFlnEA6Ocg9TuSgJsPYRWk_mw/view?usp=drive_link)**
